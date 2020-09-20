@@ -307,16 +307,18 @@ ul {
   text-align: center;
 }
 /* футер */
-.log {
+.foot-acsent .logo {
   padding-top: 60px;
 }
-.main-adr {
-  padding-top: 20px;
-  padding-bottom: 60px;
+.foot-adr {
+  margin-top: 20px;
 }
-.contacts {
-  padding-top: 9px;
-  padding-bottom: 9px;
+.mailadr {
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+.teladr {
+  padding-bottom: 60px;
 }
 footer {
   background-color: var(--hero-back-color);
