@@ -177,6 +177,7 @@ ul {
 .section {
   background: var(--button-white-color);
 }
+
 .section-box1 .feature {
   display: flex;
   flex-wrap: wrap;
@@ -194,7 +195,7 @@ ul {
 }
 .feature .item {
   width: 270px;
-  padding-right: 30px;
+  margin-right: 30px;
   padding-top: 94px;
 }
 
