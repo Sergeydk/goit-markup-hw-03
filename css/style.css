@@ -163,13 +163,12 @@ ul {
 /* цвета теkстов */
 .section {
   background: var(--button-white-color);
+  padding-top: 94px;
 }
 
 .section-box1 .feature {
   display: flex;
   flex-wrap: wrap;
-
-  padding-top: 94px;
 }
 
 .section-box .feature {
@@ -250,6 +249,7 @@ ul {
 .team {
   background: var(--button2-back-color);
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .team-title {
@@ -265,7 +265,6 @@ ul {
 }
 .team-feature {
   display: flex;
-  padding-bottom: 94px;
 }
 .nameteams {
   background-color: white;
